@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/Olavo15/Linkedin/issues"
   },
-  "homepage": "https://github.com/Olavo15/Linkedin#readme"
+  "homepage": "https://github.com/Olavo15/Linkedin#readme",
+  "devDependencies": {
+    "cypress": "^15.0.0"
+  }
 }
