@@ -44,7 +44,7 @@ if errorUsername != "" or errorPassword != "":
     exit()
 
 print("🔐 Login enviado, aguardando 2 minutos para confirmação no celular...")
-# time.sleep(120)  # descomenta se usar 2FA
+time.sleep(120)  # descomenta se usar 2FA
 
 print("✅ Login confirmado, continuando o script...")
 
